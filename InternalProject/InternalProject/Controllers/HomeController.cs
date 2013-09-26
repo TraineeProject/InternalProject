@@ -24,7 +24,7 @@ namespace InternalProject.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Trainee Project Contact on 9876543210";
 
             return View();
         }
